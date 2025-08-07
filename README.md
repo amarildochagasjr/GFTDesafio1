@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://hermes.dio.me/assets/diome/logo.svg" alt="DIO Logo" width="300"/>
   <br/>
-  <img src="./Santander-2025--Back-End-com-Java--Desafio-2/assets/GFT.png" alt="Bootcamp Logo" width="100"/>
+  <img src="assets/GFT.png" alt="Bootcamp Logo" width="150"/>
 </p>
 
 # 📌 Projeto: Programação Orientada a Objetos na Prática
@@ -60,5 +60,5 @@ Foram utilizadas estruturas de dados para gerenciar o progresso dos devs no boot
 
 1️⃣ Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/amarildochagasjr/GFTDesafio1.git
 
